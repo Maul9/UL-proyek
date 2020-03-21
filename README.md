@@ -44,24 +44,34 @@ Kompilasi Sekaligus Interpretasi, Ada juga bahasa pemrograman yang menghasilkan 
 Meskipun setiap bahasa pemrograman dibuat untuk membuat program namun setiap bahasa dibuat dengan tujuan dan fungsi yang berbeda-beda. Misalnya untuk membuat driver hardware kita tidak bisa menggunakan bahasa Visual Basic. Untuk membuat program berbasis sistem seperti driver kita bisa gunakan bahasa C atau Assembly. Contohnya sistem operasi linux yang open source. Jika anda melihat kode sumbernya anda akan menemukan bahwa linux dibuat menggunakan bahasa C. Sedangkan untuk pemrograman desktop kita bisa menggunakan Visual Basic. Bahasa tersebut dirancang oleh Microsoft untuk pemrograman desktop dengan tampilan GUI yang memukau.
 
 Bahasa pemrograman yang umum digunakan, Bahasa pemrograman yang umum digunakan :
+
 1. HTML / CSS
 banyak yang tidak menggaggap ini bagian dari bahasa pemprograman, tetapi jika di lihat dari mana program web berasal maka bisa di pastikan html/CSS adalah dasar dari itu semua,jadi jika anda ingin belajar membuat web statis terebih dahulu anda pasti akan belajar HTML/CSS dasar.
+
 2.JavaScript
 JavaScript adalah cara yang sangat populer untuk menambahkan fitur interaktif untuk halaman web dan aplikasi . Ini adalah salah satu bahasa yang paling mudah untuk dipelajari dan dapat digunakan untuk apa pun seperti memvalidasi data formulir untuk mengembangkan permainan, menjadikannya pilihan yang sangat populer untuk pemula .
+
 2.PHP
 bahasa program yang digunakan terutama untuk mengembangkan halaman web dinamis . Ini berarti bahwa daripada menciptakan sebuah file terpisah penuh kode untuk setiap halaman situs, Anda dapat menulis seperangkat aturan untuk mengakses dan menampilkan informasi dari database yang kemudian dapat membuat halaman dan memanggil mereka ketika mereka dibutuhkan .
+
 3.C + +
 Dikembangkan untuk menambahkan fitur berorientasi objek dengan bahasa C, dengan penambahan kelas dan fitur lainnya . C + + yang sekarang banyak digunakan dengan berbagai besar aplikasi . Belajar C + + juga memiliki keuntungan yaitu lebih mudah untuk mempelajari bahasa C lainnya yaitu C # dan C. Semua bahasa C umumnya dipandang sebagai bahasa pemprograman tingkat menengah .
+
 4.C #
 Diucapkan C Sharp, bahasa ini diciptakan oleh Microsoft dalam kerangka NET . . Jika Anda ingin menulis aplikasi untuk sistem operasi Windows, atau terutama jika Anda ingin menulis kode untuk perangkat lunak desktop, ini sangat penting. Ini adalah tujuan OOP umum yang berbagi banyak kesamaan dengan bahasa C tua.
+
 5.C
 Akar dari bahasa C adalah dari bahasa BCPL yang dikembangkan oleh Martin Richards pada tahun 1967. Bahasa ini memberikan ide kepada Ken Thompson yang kemudian mengembangkan bahasa yang disebut dengan B pada tahun 1970. Perkembangan selanjutnya dari bahasa B adalah bahasa C oleh Dennis Ritchie sekitar tahun 1970-an di Bell Telephone Laboratories Inc (sekarang: AT&T Bell Laboratories). Bahasa C pertama kali digunakan di komputer Digital Equipment Corporation PDP-11 yang menggunakan sistem operasi UNIX.[2].Ini adalah versi C yang digunakan oleh sistem operasi Apple serta sejumlah kecil aplikasi lain. Jika Anda ingin mengkhususkan diri dalam menulis kode untuk produk Apple maka ini adalah program yang harus anda kuasai.
+
 6.Python
 Sangat populer dalam komunitas ilmiah dan akademik, tetapi juga telah digunakan untuk membuat situs web populer seperti Pinterest . Hal ini relatif mudah untuk belajar dibandingkan dengan sesuatu seperti C atau turunannya, tetapi masih sangat fleksibel dalam hal apa yang dapat Anda lakukan dengan itu .
+
 7.Java
 Digunakan oleh Google sebagai bagian integral dari sistem operasi Android, dan oleh pengembang independen untuk membuat aplikasi Android ( serta kegunaan lain ) . Java diciptakan dengan " tulis sekali, jalankan di mana saja " ( WORA ) pendekatan untuk memudahkan kode yang ditulis pada satu mesin untuk berjalan di lain mesin.
+
 8.Ruby
 Ini adalah OOP murni populer dari Jepang. Bahasa pemrograman open source dinamis, mudah dimengerti dan produktif. Sintaks Ruby elegan, natural, mudah dibaca dan ditulis.
+
 9.Visual Basic
 Berasal dari ' BASIC ', yang sangat populer pada hari-hari awal komputasi pribadi, Visual Basic ( VB ) memungkinkan program sederhana yang akan dibuat dengan cepat dan mudah, sementara juga memungkinkan untuk coding yang lebih kompleks.
 
