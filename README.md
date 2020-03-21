@@ -1,6 +1,7 @@
 # UL-proyek
 Learn
-----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+*Paling Bawah penjelasan proyek*
 
 Pengertian Bahasa Pemrograman
 Lalu, apa itu Bahasa Pemrograman?
@@ -45,7 +46,7 @@ Meskipun setiap bahasa pemrograman dibuat untuk membuat program namun setiap bah
 
 Bahasa pemrograman yang umum digunakan, Bahasa pemrograman yang umum digunakan :
 
-1. HTML / CSS
+1.HTML / CSS
 banyak yang tidak menggaggap ini bagian dari bahasa pemprograman, tetapi jika di lihat dari mana program web berasal maka bisa di pastikan html/CSS adalah dasar dari itu semua,jadi jika anda ingin belajar membuat web statis terebih dahulu anda pasti akan belajar HTML/CSS dasar.
 
 2.JavaScript
@@ -75,3 +76,15 @@ Ini adalah OOP murni populer dari Jepang. Bahasa pemrograman open source dinamis
 9.Visual Basic
 Berasal dari ' BASIC ', yang sangat populer pada hari-hari awal komputasi pribadi, Visual Basic ( VB ) memungkinkan program sederhana yang akan dibuat dengan cepat dan mudah, sementara juga memungkinkan untuk coding yang lebih kompleks.
 
+--------------------------------------------------------------------------------------------------------------------------------
+*Ok, disini saya akan menjelaskan tools/software yg di gunakan ketika membuat bahasa pemograman yg diatas dan menjalankan aplikasi tersebut :
+-Google browser
+-Internet Explorer
+/kenapa browser? , karena saya tidak tau tools/software untuk memproses pemograman .Json,, jadinya saya gunaken browser (yg bisa menjalankan program lewat internet) 
+Cara menjalankannya kita cuman mengetikkan saja bahasa/kata pemograman yg kita buat supaya bisa dijalankan di Website (yg bisa menjalankannya secara online) untuk websitenya saya menggunakan (http://jsoneditoronline.org/ dan http://cpp.sh/)*
+
+*Apa itu read.md MD adalah sejenis format berkas arsip terkompresi yang digunakan oleh MDCD. Ia menggunakan bentuk teks biasa tetapi termasuk baris simbol-simbol teks yang menjelaskan bagaimana membentuk teks misalnya: menebalkan, spasi gantung, header, bentuk tabel.*
+
+*Berkas MD bukan hanya sangat berguna untuk sistem dokumentasi HTML , tetapi juga untuk kontrol versi kode sumber. Hal ini disebabkan karena berkas dapat dibandingkan dengan riwayat perbaikan dalam naskah yang dapat dibaca manusia (sementara bentuk biner tidak mudah untuk dibandingkan)*
+*Baru-baru ini, penyedia layanan populer repositori Git milik GitHub sangat menganjurkan menambahkan berkas README - jika berkas tersebut berada di bagian direktori tingkat atas, maka berkas README tersebut akan ditampilkan secara otomatis di halaman web utama. Sementara jenis teks biasa, berbagai berkas dengan ekstensi dan format yang berbeda juga telah didukung,dan dikonversi ke HTML.*...,
+*Sekian dari penjelasan saya, atas waktunya terima kasih semoga harinya menyenangkan :D*
