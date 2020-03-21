@@ -1,0 +1,63 @@
+{
+	"title": "Biodata saya",
+	"Personal data": {
+			"Name" : "Maulana Wijayakusuma",
+			"Age" : 20,
+			"Status" : "Not Married",
+			"Hobbies" : "Listening Music and Playing game",
+			"Email": "Maulanawijaya12@gmail.com",
+      "Phone": "+62 822-4814-0482",
+			"Location": {
+      "Address": "Duri raya street No.12,DuriKepa,KebonJeruk,WestJakarta",
+      "PostalCode": "11510",
+      "City": "DKI JAKARTA",
+      "Countrycode": "IDN",
+      "Region": "Indonesia"
+			},
+      "education1": [
+        {
+      "Institution": "SMK Assaa'adatul Abadiyah",
+      "StudyType": "Primary School",
+      "IN-Year" : 2005,
+      "OUT-Year": 2011
+      },
+      {
+      "Institution": "SMP Assaa'adatul Abadiyah",
+      "StudyType": "Secondary School",
+      "IN-Year" : 2012,
+      "OUT-Year": 2014
+      },
+      {
+      "Institution": "SMK Assaa'adatul Abadiyah",
+      "StudyType": "Senior High School",
+      "IN-Year" : 2015,
+      "OUT-Year": 2017
+      },
+      {
+      "Institution": "Major",
+      "StudyType": null,
+      "IN-Year" : null,
+      "OUT-Year": null
+      }
+        ],
+      "Skills": [{
+        "Name": "Computer and network",
+        "Level": "Advanced",
+        "Keywords": [
+           "Software and hardware installation",
+            "Troubleshoot hardware problems"
+      
+      ]
+    }],  
+      "interests": [{
+        "Interests": "True",
+        "keywords": [
+          "Ecosystem",
+          "Lion",
+          "Tiger",
+          "Black panther",
+          "Coding"
+      ]
+    }]
+}
+}
